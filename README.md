@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="docs/statics/logo.png"/>
+</h1>
 
 <h1 align="center">Aplicando uma Rede neural convolucional no Dataset Breast Cancer</h1>
 
@@ -7,6 +10,3 @@
 	🚧 🚀 Em construção...  🚧
 </h4>
 
-<h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="docs/statics/logo.png"/>
-</h1>
