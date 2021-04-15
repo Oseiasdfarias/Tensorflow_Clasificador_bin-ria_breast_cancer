@@ -8,5 +8,5 @@
 </h4>
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src=".docs/statics/logo.png"/>
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="docs/statics/logo.png"/>
 </h1>
