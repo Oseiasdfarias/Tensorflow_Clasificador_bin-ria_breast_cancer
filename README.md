@@ -6,7 +6,16 @@
 
 <p align="center">Um modelo simplificado de uma Rede Neural para ser aplicado no Dataset Breast Cancer, Esse modelo tem por finalidade entender como uma Rede Neural funciona e quais os principais parametros utilizados para a modelagem de um modelo de Machine Learning</p>
 
+.
+├── class_binaria _breast_cancer.ipynb
+├── docs
+│   └── statics
+│       └── logo_keras.png
+├── entradas_breast.csv
+├── LICENSE
+├── README.md
+└── saidas_breast.csv
+
 <h3 align="center"> 
 	🚧 🚀 Em construção...  🚧
 </h3>
-
